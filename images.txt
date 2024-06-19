@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant:2024.7.0.dev202406180219
 xhofe/alist:latest
-homeassistant/armv7-home-assistant:2024.7.0
+homeassistant/linux/arm/v7-home-assistant:2024.7.0.dev202406190219
