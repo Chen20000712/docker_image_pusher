@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm/v7 homeassistant/home-assistant:2024.7.0.dev202406180219
 --platform=linux/arm/v7 xhofe/alist:latest
+--platform=linux/arm/v7 portainer/portainer:latest
